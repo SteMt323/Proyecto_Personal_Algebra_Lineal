@@ -46,7 +46,7 @@ Cuando el entorno virtual esté activado, el prompt de la terminal cambiará par
 Ejecute el siguiente comando para instalar todas las dependencias:
 
 ```bash
-pip install -r requirements.py
+pip install -r requirements.txt
 ```
 
 ## Nota
